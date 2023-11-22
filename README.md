@@ -1,5 +1,5 @@
 # Shundlikht
-Shundlikht is a Python program (Jupyter Notebook) that, once run locally, automatically transcribes, translates (if you want), and collates the pdf images associated with each installment of a given work in the Shund.org database. The images associated with each installment are hosted by the National Library of Israel (NLI).
+Shundlikht is a Python program (Jupyter Notebook) that automatically transcribes, translates (if you want), and collates the text embedded pdf images associated with each installment of a given work in [the Shund.org database](https://shund.org/). The images associated with each installment are hosted by the [National Library of Israel](https://www.nli.org.il/en).
 
 ## Dependencies
 * [pandas](https://pandas.pydata.org/)
